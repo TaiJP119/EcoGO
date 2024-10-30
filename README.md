@@ -35,15 +35,14 @@ TODO:
     a. google_fonts: ^6.2.1 (https://pub.dev/packages/google_fonts)
     b. google_generative_ai: ^0.4.6 (https://pub.dev/packages/google_generative_ai)
     c. image_picker: ^0.8.4+4 (https://pub.dev/packages/image_picker)
-2. go to folder android > settings.grandle
+2. Go to folder android > settings.grandle
 3. change: id "com.android.application" version "8.3.2" apply false
-4. go to folder android > gradle/wrapper > gradle-wrapper.properties
+4. Go to folder android > gradle/wrapper > gradle-wrapper.properties
 5. distributionUrl = https\://services.gradle.org/distributions/gradle-8.4-all.zip
-6. run the lib > main.dart again.
 
 How to run.
-1. ctrl shift p, launch the simulator
-2. run the lib > main.dart .
+1. ctrl shift p, launch the simulator (Extension: Android iOS Emulator)
+2. Go to lib > main.dart, run without debugging.
 
 
 
