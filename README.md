@@ -24,22 +24,27 @@ https://drive.google.com/file/d/1tOh1eBYefev5DIkfXm1UnpIYi3nbDzaU/view?usp=shari
 ![image](https://github.com/user-attachments/assets/9de39b80-4aa3-455f-b5ad-e3cdcd1f0e3d)
 
 ## Video link (pitch video):
-https://drive.google.com/file/d/1kI9G016tjdwgQv8TaGEFEwsHExV8EwSV/view?usp=sharing
+
 
 ## Github Link:
 https://github.com/TaiJP119/EcoGO
 
 ## Way to run APK
 TODO:
-a. We need 3 packages to install from pub.dev:
+1. We need 3 packages to install from pub.dev:
+    a. google_fonts: ^6.2.1 (https://pub.dev/packages/google_fonts)
+    b. google_generative_ai: ^0.4.6 (https://pub.dev/packages/google_generative_ai)
+    c. image_picker: ^0.8.4+4 (https://pub.dev/packages/image_picker)
+2. go to folder android > settings.grandle
+3. change: id "com.android.application" version "8.3.2" apply false
+4. go to folder android > gradle/wrapper > gradle-wrapper.properties
+5. distributionUrl = https\://services.gradle.org/distributions/gradle-8.4-all.zip
+6. run the lib > main.dart again.
 
-    1. google_fonts: ^6.2.1 (https://pub.dev/packages/google_fonts)
-    2. google_generative_ai: ^0.4.6 (https://pub.dev/packages/google_generative_ai)
-    3. image_picker: ^0.8.4+4 (https://pub.dev/packages/image_picker)
+How to run.
+1. ctrl shift p, launch the simulator
+2. run the lib > main.dart .
 
-b. Go to Folder lib > main.dart
-
-c. Go to File menu bar of VSCode, Run > Run without debugging.
 
 
 
