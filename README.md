@@ -14,7 +14,7 @@ https://www.figma.com/proto/VBYGdUDWNKmYHYUPPk2Kp2/Hackathon?node-id=134-1805&no
 https://drive.google.com/file/d/1tOh1eBYefev5DIkfXm1UnpIYi3nbDzaU/view?usp=sharing
 
 ## Video link (pitch video):
-
+https://drive.google.com/file/d/1kI9G016tjdwgQv8TaGEFEwsHExV8EwSV/view?usp=sharing
 
 ## Github Link:
 https://github.com/TaiJP119/EcoGO
