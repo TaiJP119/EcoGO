@@ -1,5 +1,5 @@
 ## Team Name
-Group PAWsitive 
+PAWsitive 
 
 ## Case Study Chosen
 Sustainable Cities and Communities
