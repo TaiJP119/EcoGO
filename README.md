@@ -13,7 +13,7 @@ https://www.figma.com/proto/VBYGdUDWNKmYHYUPPk2Kp2/Hackathon?node-id=134-1805&no
 ## Video link (For this apk):
 https://drive.google.com/file/d/1tOh1eBYefev5DIkfXm1UnpIYi3nbDzaU/view?usp=sharing
 
-## Video link (pitching video):
+## Video link (pitch video):
 
 
 ## Github Link:
