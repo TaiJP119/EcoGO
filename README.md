@@ -13,7 +13,7 @@ https://www.figma.com/proto/VBYGdUDWNKmYHYUPPk2Kp2/Hackathon?node-id=134-1805&no
 ## Video link (For this apk):
 https://drive.google.com/file/d/1tOh1eBYefev5DIkfXm1UnpIYi3nbDzaU/view?usp=sharing
 
-## Screenshot of source code(also in the folde 'lib'):
+## Screenshot of source code(included in the folder 'lib'):
 ![image](https://github.com/user-attachments/assets/fdd0ff5c-0daa-4820-8727-710215608e41)
 ![image](https://github.com/user-attachments/assets/c912a722-a534-415f-9602-5845512d45fc)
 ![image](https://github.com/user-attachments/assets/d7bc0724-53ce-4673-a1f3-ba3025a63e30)
