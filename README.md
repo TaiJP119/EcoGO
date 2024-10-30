@@ -17,7 +17,7 @@ https://drive.google.com/file/d/1tOh1eBYefev5DIkfXm1UnpIYi3nbDzaU/view?usp=shari
 
 
 ## Github Link:
-
+https://github.com/TaiJP119/EcoGO
 
 ## Way to run APK
 TODO:
