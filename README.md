@@ -28,6 +28,7 @@ a. We need 3 packages to install from pub.dev:
     3. image_picker: ^0.8.4+4 (https://pub.dev/packages/image_picker)
 
 b. Go to Folder lib > main.dart
+
 c. Go to File menu bar of VSCode, Run > Run without debugging.
 
 
