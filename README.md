@@ -24,7 +24,7 @@ https://drive.google.com/file/d/1tOh1eBYefev5DIkfXm1UnpIYi3nbDzaU/view?usp=shari
 ![image](https://github.com/user-attachments/assets/9de39b80-4aa3-455f-b5ad-e3cdcd1f0e3d)
 
 ## Video link (pitch video):
-
+https://drive.google.com/file/d/1YspdfZPHQ26_epzVBvaUk1zZlYK-S7hD/view?usp=sharing
 
 ## Github Link:
 https://github.com/TaiJP119/EcoGO
