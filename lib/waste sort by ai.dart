@@ -123,7 +123,7 @@ class _WasteSortScreenState extends State<WasteSortScreen> {
       String? intoleranceOrLimits, XFile? picture) async {
     final model = GenerativeModel(
       model: 'gemini-1.5-flash',
-      apiKey: 'AIzaSyDbYz3Wb6hOxA3Z0XtjiG0XVJ6PTPU-v98',
+      apiKey: 'api-KEY',
     );
 
     final prompt = _generatePrompt(people, maxTimeCooking, intoleranceOrLimits);
